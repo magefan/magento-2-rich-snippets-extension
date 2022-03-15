@@ -75,7 +75,7 @@ Try out our open demo and if you like our extension **please give us some star o
         <a href="https://seo.demo.magefan.top/">
           <img
             src="https://magefan.com/static/version1520969775/frontend/Magefan/new/en_US/images/product-tab-demo-1.jpg"
-            alt="Magneto 2 HTML Extension Storefront Demo"
+            alt="Magento 2 Rich Snippets Extension Storefront Demo"
             height="220"
           >
         </a>
@@ -84,7 +84,7 @@ Try out our open demo and if you like our extension **please give us some star o
         <a href="https://seo.demo.magefan.top/admin/admin/system_config/edit/section/richsnippets/">
           <img
             src="https://magefan.com/static/version1520969775/frontend/Magefan/new/en_US/images/product-tab-demo-2.jpg"
-            alt="Magneto 2 HTML Extension Admin Panel Demo"
+            alt="Magento 2 Rich Snippets Extension Admin Panel Demo"
             height="220"
           >
         </a>
