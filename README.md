@@ -157,3 +157,4 @@ The code is licensed under [EULA](https://magefan.com/end-user-license-agreement
   * [Magento 2 SEO Extension](https://magefan.com/magento-2-seo-extension)
   * [Magento 2 HTML Sitemap Extension](https://magefan.com/magento-2-html-sitemap-extension)
   * [Magento 2 SEO Suite Ultimate Extension](https://magefan.com/magento-2-seo-suite-ultimate-extension)
+  * [Magento 2 Automatic Related Products](https://magefan.com/magento-2-automatic-related-products)
