@@ -9,7 +9,7 @@
 [Magento 2 Rich Snippets Extension](https://magefan.com/magento-2-rich-snippets) is the module that helps you to make your pages stand out in search with the advanced structured data. It applies rich snippets for price, reviews, rating, availability, organization, social media, navigation, and search.
 
 
-<a href="https://magefan.com/magento-2-rich-snippets"><img width="190" height="70" src="https://magefan.com/media/wysiwyg/download-now_1.png"></a>
+<a href="https://magefan.com/magento-2-rich-snippets"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-rich-snippets#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
 
 ## Benefits
 
