@@ -1,4 +1,4 @@
-# Magento 2 Rich Snippets Extension
+# [Magento 2 Rich Snippets Extension](https://magefan.com/magento-2-rich-snippets) by Magefan
 
 <a href="https://savelife.in.ua/en/donate-en/#donate-army-card-monthly"><img width="830" height="208" src="https://cm.magefan.com/blog/support-ukraine.png"></a>
 
@@ -8,16 +8,17 @@
 
 [Magento 2 Rich Snippets Extension](https://magefan.com/magento-2-rich-snippets) is the module that helps you to make your pages stand out in search with the advanced structured data. It applies rich snippets for price, reviews, rating, availability, organization, social media, navigation, and search.
 
+<a href="https://magefan.com/magento-2-rich-snippets"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-rich-snippets#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a><a href="https://magefan.com/magento-2-seo-extension"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-seo.png"></a>
 
-<a href="https://magefan.com/magento-2-rich-snippets"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-rich-snippets#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
+## Requirements
+  * Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
+  * [Magefan Community Extension](https://github.com/magefan/module-community) >= v2.1.20. Please install this extension first if you use installation via FTP.
 
 ## Benefits
-
 * More targeted traffic
 * Improved CTP value
 * Increased page authority
 * Better conversion rates
-
 
 ## Features
 ### Price Rich Snippets
@@ -25,7 +26,7 @@
 Displaying price directly in search results helps you to stand out from other results and drive people’s attention to your store. Your potential customers know exactly whether the price suits their needs. Besides if some items are on sale, you can display discounted prices too which will only attract more eyes to your special offers.
 
 <p align="center">
-  <img width="860" height="428" src="https://cm.magefan.com/mf_webp/png/media/catalog/google-rich-snippets-for-magento-2_2.webp">
+  <img width="860" height="428" src="https://cm.magefan.com/mf_webp/png/media/catalog/google-rich-snippets-for-magento-2_3.webp">
 </p>
 
 ### Rating and Reviews Rich Snippets
@@ -33,7 +34,7 @@ Displaying price directly in search results helps you to stand out from other re
 Customers like to compare ratings and reviews from a few vendors to make sure the product is popular, valued, and simply worth their while. However, going from one website to the other comparing products is tedious and time-consuming. Display rating and reviews directly in search with the Rich Snippets Extension and make people click your website page instead of the competitors’.
 
 <p align="center">
-  <img width="860" height="428" src="https://cm.magefan.com/mf_webp/png/media/catalog/magento-2-google-rich-snippets_2.webp">
+  <img width="860" height="428" src="https://cm.magefan.com/mf_webp/png/media/catalog/rating_snippet-in-google-search-results.webp">
 </p>
 
 ### Breadcrumbs Rich Snippet
@@ -41,7 +42,7 @@ Customers like to compare ratings and reviews from a few vendors to make sure th
 Website structure is something important not only for search engines but customers too. People have to understand where stands the page they’re following in the hierarchy of your website. You can set up the breadcrumbs rich snippet to be displayed in search results. It makes it clear for customers and search engines where searchers will eventually land on your store.
 
 <p align="center">
-  <img width="860" height="428" src="https://cm.magefan.com/mf_webp/png/media/catalog/magento-2-rich-snippets_3.webp">
+  <img width="860" height="428" src="https://cm.magefan.com/mf_webp/png/media/catalog/breadcrumbs-rich-snippet-magento.webp">
 </p>
 
 ### Organization Rich Snippets
@@ -49,7 +50,7 @@ Website structure is something important not only for search engines but custome
 To improve brand awareness and increase your store's online visibility it is important to implement organization rich snippets. You can add a logo, description, fax, price range, social media, and many other markup data to stand out in search. Magento 2 Rich Snippets extension helps you instantly associate your brand with the information pulled out by structured data.
 
 <p align="center">
-  <img width="860" height="428" src="https://cm.magefan.com/mf_webp/png/media/catalog/organization-rich-snippet.webp">
+  <img width="860" height="428" src="https://cm.magefan.com/mf_webp/png/media/catalog/organization-rich-snippet_1.webp">
 </p>
 
 ### Search Box Rich Snippets
@@ -57,7 +58,7 @@ To improve brand awareness and increase your store's online visibility it is imp
 One of the things people appreciate in your store is search since it allows them to find what they came for faster. To go one step further you can use the Magento Rich Snippets module to implement search in search results. It allows your potential customers to search through your store pages before they even land on your website. However, note that it is up to Google and other search engines if the search box will be displayed on your store. Except for structured data markup, it depends on several different factors.
 
 <p align="center">
-  <img width="860" height="428" src="https://cm.magefan.com/mf_webp/png/media/catalog/google-rich-snippet-search.webp">
+  <img width="860" height="428" src="https://cm.magefan.com/mf_webp/png/media/catalog/google-rich-snippet-search_1.webp">
 </p>
 
 ## Demo
@@ -107,6 +108,11 @@ Try out our open demo and if you like our extension **please give us some star o
     </tr>
   </tbody>
 </table>
+
+## Support
+If you have any issues, please [contact us](mailto:support@magefan.com)
+then if you still need help, open a bug report in GitHub's
+[issue tracker](https://github.com/magefan/magento-2-rich-snippets-extension/issues).
 
 ## Need More Features?
 Please contact us to get a quote
