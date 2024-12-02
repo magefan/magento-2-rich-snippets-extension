@@ -12,6 +12,13 @@ Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
 
 <a href="https://magefan.com/magento-2-rich-snippets"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/contact?question=request-free-trial&product_id=1864#contact-form-fields"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/free-trial.png"> </a><a href="https://magefan.com/magento-2-seo-extension"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-seo.png"></a>
 
+## Useful Links
+  * [User Guide](https://magefan.com/magento-2-rich-snippets/documentation)
+  * [Change Log](https://magefan.com/magento-2-rich-snippets/change-log)
+  * [FAQs](https://magefan.com/magento-2-rich-snippets#pattr-faq)
+
+## 🇺🇦 Stand with Ukraine! [How can you help?](https://magefan.com/blog/join-our-donations)
+
 ## Benefits
 * [Stand Out in SERP and Attract Targeted Audience](https://github.com/magefan/magento-2-rich-snippets-extension#stand-out-in-serp-and-attract-targeted-audience)
 * [Add Product Rich Snippets](https://github.com/magefan/magento-2-rich-snippets-extension#add-product-rich-snippets)
