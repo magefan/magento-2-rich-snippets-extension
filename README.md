@@ -1,8 +1,8 @@
-# [Magento 2 Rich Snippets Extension](https://magefan.com/magento-2-rich-snippets) by Magefan
+# [Magento 2 Rich Snippets](https://magefan.com/magento-2-rich-snippets) by Magefan
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/103e1b2520de2a36a364b0391bff6bdc/i/c/icon-rech-snippets.webp">
 
-[Magento 2 Rich Snippets Extension](https://magefan.com/magento-2-rich-snippets) is the tool that helps you add advanced structured data and make your pages stand out in SERP. It generates rich snippets for products, HowTos, FAQs, breadcrumbs, and more. No coding required!
+[Magento 2 Rich Snippets](https://magefan.com/magento-2-rich-snippets) is the tool that helps you add advanced structured data and make your pages stand out in SERP. It generates rich snippets for products, HowTos, FAQs, breadcrumbs, and more. No coding required!
 
 Set up the structured data from the admin panel and the extension will add it automatically. Attracting the targeted traffic has never been easier!
 
