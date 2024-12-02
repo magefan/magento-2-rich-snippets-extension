@@ -1,64 +1,123 @@
 # [Magento 2 Rich Snippets Extension](https://magefan.com/magento-2-rich-snippets) by Magefan
 
-<a href="https://savelife.in.ua/en/donate-en/#donate-army-card-monthly"><img width="830" height="208" src="https://cm.magefan.com/blog/support-ukraine.png"></a>
-
-<img width="150" height="100" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
-
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/103e1b2520de2a36a364b0391bff6bdc/i/c/icon-rech-snippets.webp">
 
-[Magento 2 Rich Snippets Extension](https://magefan.com/magento-2-rich-snippets) is the module that helps you to make your pages stand out in search with the advanced structured data. It applies rich snippets for price, reviews, rating, availability, organization, social media, navigation, and search.
+[Magento 2 Rich Snippets Extension](https://magefan.com/magento-2-rich-snippets) is the tool that helps you add advanced structured data and make your pages stand out in SERP. It generates rich snippets for products, HowTos, FAQs, breadcrumbs, and more. No coding required!
 
-<a href="https://magefan.com/magento-2-rich-snippets"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-rich-snippets#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a><a href="https://magefan.com/magento-2-seo-extension"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-seo.png"></a>
+Set up the structured data from the admin panel and the extension will add it automatically. Attracting the targeted traffic has never been easier!
 
-## Requirements
-  * Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
+Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
+
+<img  align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
+
+<a href="https://magefan.com/magento-2-rich-snippets"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/contact?question=request-free-trial&product_id=1864#contact-form-fields"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/free-trial.png"> </a><a href="https://magefan.com/magento-2-seo-extension"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-seo.png"></a>
 
 ## Benefits
-* More targeted traffic
-* Improved CTP value
-* Increased page authority
-* Better conversion rates
+* [Stand Out in SERP and Attract Targeted Audience](https://github.com/magefan/magento-2-rich-snippets-extension#stand-out-in-serp-and-attract-targeted-audience)
+* [Add Product Rich Snippets](https://github.com/magefan/magento-2-rich-snippets-extension#add-product-rich-snippets)
+* [Generate Breadcrumbs Structured Data](https://github.com/magefan/magento-2-rich-snippets-extension#generate-breadcrumbs-structured-data)
+* [Raise Brand Awareness with Organization Snippet](https://github.com/magefan/magento-2-rich-snippets-extension#raise-brand-awareness-with-organization-snippet)
+* [Set UP Search Box Rich Snippet](https://github.com/magefan/magento-2-rich-snippets-extension#set-up-search-box-rich-snippet)
+* [Provide Answers to the Frequently Asked Questions](https://github.com/magefan/magento-2-rich-snippets-extension#provide-answers-to-the-frequently-asked-questions)
+* [Mark Your Content as How-To Easily](https://github.com/magefan/magento-2-rich-snippets-extension#mark-your-content-as-how-to-easily)
+* [Make Your Events More Noticeable](https://github.com/magefan/magento-2-rich-snippets-extension#make-your-events-more-noticeable)
+* [Generate Product Video Rich Snippets Automatically](https://github.com/magefan/magento-2-rich-snippets-extension#generate-product-video-rich-snippets-automatically)
 
 ## Features
-### Price Rich Snippets
+### Stand Out in SERP and Attract Targeted Audience
+If you manage to get on the first pages of SERP, it doesn’t always mean you’ll get all the clicks. You need to stand out from other search results to attract more audience.
 
-Displaying price directly in search results helps you to stand out from other results and drive people’s attention to your store. Your potential customers know exactly whether the price suits their needs. Besides if some items are on sale, you can display discounted prices too which will only attract more eyes to your special offers.
+The Magento 2 Rich Snippets extension takes care of this. It marks your content with structured data and tells Google what it is about. This way your products and pages appear in the targeted search results where people are more likely to open them.
 
-<p align="center">
-  <img width="860" height="428" src="https://cm.magefan.com/mf_webp/png/media/catalog/google-rich-snippets-for-magento-2_3.webp">
-</p>
-
-### Rating and Reviews Rich Snippets
-
-Customers like to compare ratings and reviews from a few vendors to make sure the product is popular, valued, and simply worth their while. However, going from one website to the other comparing products is tedious and time-consuming. Display rating and reviews directly in search with the Rich Snippets Extension and make people click your website page instead of the competitors’.
+Besides, this tool displays ratings, reviews, prices, availability, etc., making your offerings more attractive.
 
 <p align="center">
-  <img width="860" height="428" src="https://cm.magefan.com/mf_webp/png/media/catalog/rating_snippet-in-google-search-results.webp">
+  <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/products/magento-structured-data_1.png">
 </p>
 
-### Breadcrumbs Rich Snippet
+### Add Product Rich Snippets
+Customers like to have all relevant details in front of them to make sure the product is affordable, reviewed, and simply worth their while. There’s nothing more efficient than Magento 2 rich snippets to do the job.
 
-Website structure is something important not only for search engines but customers too. People have to understand where stands the page they’re following in the hierarchy of your website. You can set up the breadcrumbs rich snippet to be displayed in search results. It makes it clear for customers and search engines where searchers will eventually land on your store.
+With this tool, you can set up the product rich snippets right from the admin panel. Define what entities you’d like to have in the structured data and assign them to the corresponding Magento attributes.
+
+There’s no need to edit code or add rich snippets manually. You configure them once and benefit from them for the time to come.
 
 <p align="center">
-  <img width="860" height="428" src="https://cm.magefan.com/mf_webp/png/media/catalog/breadcrumbs-rich-snippet-magento.webp">
+  <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/products/magento-product-snippet.png">
 </p>
 
-### Organization Rich Snippets
+### Generate Breadcrumbs Structured Data
+Website structure is important not only for search engines but for customers too. They need to understand how it works to find their way around your store.
 
-To improve brand awareness and increase your store's online visibility it is important to implement organization rich snippets. You can add a logo, description, fax, price range, social media, and many other markup data to stand out in search. Magento 2 Rich Snippets extension helps you instantly associate your brand with the information pulled out by structured data.
+In the Magento 2 Rich Snippets extension, you can set up the breadcrumbs rich snippet to be displayed in search results. It creates a clear structure of your store for customers and search engines and highlights where searchers will eventually land.
 
 <p align="center">
-  <img width="860" height="428" src="https://cm.magefan.com/mf_webp/png/media/catalog/organization-rich-snippet_1.webp">
+  <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/products/breadcrumps-structured-data-magento.png">
 </p>
 
-### Search Box Rich Snippets
+### Raise Brand Awareness with Organization Snippet
+It’s crucial to develop a brand image customers can recognize. Thus, you should consider adding the organization rich snippet to raise brand awareness. 
 
-One of the things people appreciate in your store is search since it allows them to find what they came for faster. To go one step further you can use the Magento Rich Snippets module to implement search in search results. It allows your potential customers to search through your store pages before they even land on your website. However, note that it is up to Google and other search engines if the search box will be displayed on your store. Except for structured data markup, it depends on several different factors.
+This Magento Rich Snippets tool allows you to add your company’s logo, description, social links, and fax to stand out in search results. You can add this markup to all pages or insert it as a widget at any place in your store. 
+
+The organization structured data defines your company’s key info and makes it way more noticeable.
 
 <p align="center">
-  <img width="860" height="428" src="https://cm.magefan.com/mf_webp/png/media/catalog/google-rich-snippet-search_1.webp">
+  <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/products/organization-structured-data-in-magento.png">
 </p>
+
+### Set UP Search Box Rich Snippet
+Customers form opinions about your store even before landing on it. Their search experience matters as well.
+
+The Magento 2 Rich Snippets module allows you to implement the Search Box rich snippet. So, your potential customers can search through your store pages before even opening them. 
+
+Sure, only Google and other search engines decide if the search box appears in the search results. Yet, better safe than sorry, right?
+
+Additionally, you can set what website name to display in search and define alternative options. You have full control over your image in search results.
+
+<p align="center">
+  <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/products/magento-2-structured-data_1.png">
+</p>
+
+### Provide Answers to the Frequently Asked Questions
+Usually, potential customers have a lot of questions about your products before the purchase. So, why not do them a favor and provide them with the answers?
+
+With the Magento 2 Rich Snippets extension you can add the FAQ markup in a matter of minutes. Just select the structured data type, provide the questions and answers, and choose the template. That’s about it!
+
+You can also insert the FAQ rich snippet into any place in your store via widgets. So, you have a great chance to present the info in a clean and effective way.
+
+<p align="center">
+  <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/products/magento-2-faq-structured-data.png">
+</p>
+
+### Mark Your Content as How-To Easily
+Do you have how-tos and want them to be more appealing in the search results? Say no more and let the Magento 2 Rich Snippets extension do this for you.
+
+It allows you to add the HowTo schema markup to any page featuring a set of consecutive actions. You just need to define them in the corresponding fields and save the rich snippet.
+
+Just like that you mark your content as how-to and get a chance to appear in the targeted results.
+
+<p align="center">
+  <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/products/howto-structured-data.png">
+</p>
+
+### Make Your Events More Noticeable
+When organizing some event, all details must be easy to find. Having to look through the website and review dozens of pages to find the event time doesn’t really cut it.
+
+This Magento Rich Snippets tool has you covered. You can fill out the event snippet and answer all whats and wheres: the event name, description, images, address, time, attendance mode, offers, and more.
+
+Let your attendees know all about the event and attract even more potential participants directly from search.
+
+<p align="center">
+  <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/products/events-structured-data-magento.png">
+</p>
+
+### Generate Product Video Rich Snippets Automatically
+Video content is a great way to showcase your products. It works certainly better than lengthy texts. So, it’s important that product videos appear in search results too. 
+
+The Magento 2 Rich Snippets extension helps you generate video structured data automatically. Yes, you read that right! There’s nothing you have to do manually.
+
+This module creates rich snippets for your product videos by default. Thus, they have a higher chance of reaching the right audience.
 
 ## Demo
 
@@ -86,7 +145,7 @@ Try out our open demo and if you like our extension **please give us some star o
       <td align="center" valign="middle">
         <a href="https://seo.demo.magefan.top/admin/admin/system_config/edit/section/richsnippets/">
           <img
-            src="https://magefan.com/static/version1520969775/frontend/Magefan/new/en_US/images/product-tab-demo-2.jpg"
+         src="https://cs.magefan.com/version1732118579/frontend/Magefan/next/en_US/Magefan_CssOptimizer/images/product-tab-demo-2.jpg"
             alt="Magento 2 Rich Snippets Extension Admin Panel Demo"
             height="220"
           >
@@ -119,13 +178,6 @@ https://magefan.com/contact
 
 ## License
 The code is licensed under [EULA](https://magefan.com/end-user-license-agreement).
-
-## Documentation
-
-**General**
-* [How to install Magento 2 Rich Snippets Extension](https://magefan.com/magento-2-rich-snippets/installation)
-* [How to update Magento 2 Rich Snippets Extension](https://magefan.com/magento-2-rich-snippets/updating)
-* [How to uninstall Magento 2 Rich Snippets Extension](https://magefan.com/magento-2-rich-snippets/uninstalling)
 
 ## [Magento 2 Extensions](https://magefan.com/magento-2-extensions) by Magefan
 
